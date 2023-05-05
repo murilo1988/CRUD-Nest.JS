@@ -1,0 +1,10 @@
+{
+  "trailingComma": "es5",
+  "prettier/prettier": [
+    "error",
+    {
+      "singleQuote": true,
+      "parser": "flow"
+    }
+  ]
+}
